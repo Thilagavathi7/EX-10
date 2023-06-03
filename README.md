@@ -18,7 +18,6 @@ will sendNACK signal to client.
 ```
 
 ### PROGRAM :
-
 CLIENT:
 ```
 import socket
@@ -65,7 +64,6 @@ while True:
     conn.close()
 ```
 ### OUTPUT :
-
 CLIENT:
 ![image](https://github.com/Thilagavathi7/EX-10/assets/119407159/7a9ef30f-d6b7-4b2c-b496-341965229634)
 
